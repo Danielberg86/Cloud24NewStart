@@ -1,7 +1,7 @@
 #Programmeringsspråk
 
-VI lär oss bl.a dessa språk:
+were learning this languages:
 
 1. Java
-2. Markdown (inte programmering nödvändigtvis)
-3. HTML (Framtiden)
+2. Markdown (not a programming languages)
+3. HTML (Future)
